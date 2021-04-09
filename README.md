@@ -44,7 +44,6 @@ Frontend
 - [Leaflet](leafletjs)
 - [Pigeon maps](https://github.com/mariusandra/pigeon-maps)
 - [React](https://reactjs.org/)
-- [React dropzone](https://react-dropzone.js.org/)
 - [React icons](https://react-icons.netlify.com/)
 - [React router](https://reacttraining.com/react-router/)
 - [Typescript](https://www.typescriptlang.org/)
